@@ -1,4 +1,4 @@
-name = "your-worker-name"
+name = "cftronseller"
 main = "workers.js"
 compatibility_date = "2026-02-08"
 
