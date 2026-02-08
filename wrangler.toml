@@ -1,0 +1,9 @@
+name = "your-worker-name"
+main = "workers.js"
+compatibility_date = "2026-02-08"
+
+# 如果你的入口文件是 TypeScript，改为：
+# main = "src/index.ts"
+
+# 如果入口文件在根目录，改为：
+# main = "index.js"
